@@ -23,6 +23,7 @@
   "module": "./dist/meshline.es.js",
   "exports": {
     ".": {
+      "types": "./index.d.ts",
       "import": "./dist/meshline.es.js",
       "require": "./dist/meshline.umd.js"
     }
